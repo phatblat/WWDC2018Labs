@@ -9,7 +9,7 @@ Command should give some clue as to the cause of the error.
 
 https://github.com/openbakery/gradle-xcodePlugin/pull/375
 
-- [] Radar submitted?
+- [ ] Radar submitted?
 
 
 ## security set-key-partition-list docs suck
@@ -42,7 +42,7 @@ set-key-partition-list [-S <partition list (comma separated)>] [-k <keychain pas
     -w              Match keys that can wrap
 ```
 
-- [] Radar submitted?
+- [ ] Radar submitted?
 
 
 ## ClassKit for enterprise
@@ -55,7 +55,7 @@ Multi user devices
 * Classkit
 * shared devices
 
-- [] Radar submitted?
+- [ ] Radar submitted?
 
 ## macOS password dialogs
 
@@ -64,7 +64,7 @@ GUI dialogs triggered from CLI commands are just silly. They fail with a generic
 - Any way to prevent?
 - Provide auth via CLI
 
-- [] Radar submitted?
+- [ ] Radar submitted?
 
 
 ## AD bind pre-login
@@ -72,7 +72,7 @@ GUI dialogs triggered from CLI commands are just silly. They fail with a generic
 - search for existing radars to dup
 * enterprise connect is post-login
 
-- [] Radar submitted?
+- [ ] Radar submitted?
 
 
 ## Subsidiary dev program
@@ -89,7 +89,7 @@ However, we would want one central team to manage them.
   - also will want to release apps
 - Perhaps umbrella brand for Kaiser Research
 
-- [] Radar submitted?
+- [ ] Radar submitted?
 
 
 ## Hypervisor Framework
@@ -98,4 +98,4 @@ However, we would want one central team to manage them.
 - Any vendors building container products using it?
   - [Veertu](https://veertu.com/) Anka
 
-- [] Radar submitted?
+- [ ] Radar submitted?
